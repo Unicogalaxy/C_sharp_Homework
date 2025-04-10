@@ -1,0 +1,9 @@
+D:\Develop\C_sharp\Week8_Test1\Week8_Test1\bin\Debug\Week8_Test1.exe.config
+D:\Develop\C_sharp\Week8_Test1\Week8_Test1\bin\Debug\Week8_Test1.exe
+D:\Develop\C_sharp\Week8_Test1\Week8_Test1\bin\Debug\Week8_Test1.pdb
+D:\Develop\C_sharp\Week8_Test1\Week8_Test1\obj\Debug\Week8_Test1.csproj.AssemblyReference.cache
+D:\Develop\C_sharp\Week8_Test1\Week8_Test1\obj\Debug\WebContentScraper.Form1.resources
+D:\Develop\C_sharp\Week8_Test1\Week8_Test1\obj\Debug\Week8_Test1.csproj.GenerateResource.cache
+D:\Develop\C_sharp\Week8_Test1\Week8_Test1\obj\Debug\Week8_Test1.csproj.CoreCompileInputs.cache
+D:\Develop\C_sharp\Week8_Test1\Week8_Test1\obj\Debug\Week8_Test1.exe
+D:\Develop\C_sharp\Week8_Test1\Week8_Test1\obj\Debug\Week8_Test1.pdb
