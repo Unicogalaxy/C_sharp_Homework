@@ -1,0 +1,12 @@
+D:\Develop\C_sharp\Week8_Test\Week8_Test\bin\Debug\Week8_Test.exe.config
+D:\Develop\C_sharp\Week8_Test\Week8_Test\bin\Debug\Week8_Test.exe
+D:\Develop\C_sharp\Week8_Test\Week8_Test\bin\Debug\Week8_Test.pdb
+D:\Develop\C_sharp\Week8_Test\Week8_Test\obj\Debug\Week8_Test.csproj.AssemblyReference.cache
+D:\Develop\C_sharp\Week8_Test\Week8_Test\obj\Debug\Week8_Test.Form1.resources
+D:\Develop\C_sharp\Week8_Test\Week8_Test\obj\Debug\Week8_Test.csproj.GenerateResource.cache
+D:\Develop\C_sharp\Week8_Test\Week8_Test\obj\Debug\Week8_Test.csproj.CoreCompileInputs.cache
+D:\Develop\C_sharp\Week8_Test\Week8_Test\obj\Debug\Week8_Test.exe
+D:\Develop\C_sharp\Week8_Test\Week8_Test\obj\Debug\Week8_Test.pdb
+D:\Develop\C_sharp\Week8_Test\Week8_Test\bin\Debug\HtmlAgilityPack.dll
+D:\Develop\C_sharp\Week8_Test\Week8_Test\bin\Debug\HtmlAgilityPack.pdb
+D:\Develop\C_sharp\Week8_Test\Week8_Test\obj\Debug\Week8_Test.csproj.Up2Date

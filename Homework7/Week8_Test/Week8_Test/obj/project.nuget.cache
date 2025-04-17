@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hcroTBfovLE=",
+  "success": true,
+  "projectFilePath": "D:\\Develop\\C_sharp\\Week8_Test\\Week8_Test\\Week8_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\13661\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512"
+  ],
+  "logs": []
+}
